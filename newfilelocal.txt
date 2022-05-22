@@ -1,1 +1,1 @@
-this is a new text file created in local repo. will be pushed into remote shortly.
+this is a local file. push to remote repo.
